@@ -1,0 +1,4 @@
+get egg
+get milk
+get cheese
+get fruit
